@@ -1,0 +1,10 @@
+export { authenticationDescription } from './authentication';
+export { accountsDescription } from './accounts';
+export { openBankingDescription } from './open-banking';
+export { apiDescription } from './api';
+export { transactionsDescription } from './transactions';
+export { directDebitsDescription } from './direct-debits';
+export { paymentBatchesDescription } from './payment-batches';
+export { cardsDescription } from './cards';
+export { payeeBankAccountsDescription } from './payee-bank-accounts';
+export { usersDescription } from './users';
